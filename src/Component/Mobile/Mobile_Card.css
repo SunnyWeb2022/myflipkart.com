@@ -1,0 +1,29 @@
+.mobile_box{
+    width: 100%;
+    /* border:1px solid red; */
+    display:flex;
+    background-color: #fff;
+}
+.mobile_img{
+    height:90%;
+    /* width:100%; */
+}
+.mobile_img img{
+    height: 90%;
+}
+.mobile_info{
+    padding: 2% 0px;
+}
+.mobile_info h4{
+    margin-bottom: 3%;
+}
+.mobile_info ul{
+    font-size: 15px;
+    opacity: .9;
+}
+.price{
+    margin: 2% 0px;
+}
+.price h6{
+    opacity: .6;
+}
